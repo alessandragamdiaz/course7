@@ -1,0 +1,12 @@
+{
+  "colors" : [
+    {
+      "filename" : "Your_Ap1p_Icon.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
